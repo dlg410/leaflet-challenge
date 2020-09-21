@@ -1,5 +1,7 @@
 # Leaflet Homework - Visualizing Data with Leaflet
 
+* Diego Gonzalez - [@dlg410](https://github.com/dlg410)
+
 ## Background
 
 ![1-Logo](Images/1-Logo.png)
@@ -80,4 +82,4 @@ Your final product will be assessed on the following metrics:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+<!-- Trilogy Education Services © 2019. All Rights Reserved. -->
